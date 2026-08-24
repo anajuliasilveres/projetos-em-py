@@ -46,7 +46,3 @@ projetos-em-py/
     ├── banco-simples/
     └── batalha-naval/
 ```
-
-## Status
-
-🚧 Em construção — os desafios serão resolvidos aos poucos, conforme eu avanço nos estudos.
