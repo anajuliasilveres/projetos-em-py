@@ -22,3 +22,5 @@ if float(media_da_recuperação) >=7:
     print ("o aluno foi aprovado no ano letivo com a nota da recuperação. a media final do aluno é ", f"{media_da_recuperação:2.2f}")
 if float(media_da_recuperação) <=4:
     print ("o aluno foi reprovado no ano letivo mesmo com a nota da recuperação . a media final do aluno é ", f"{media_da_recuperação:2.2f}")
+    
+finally
