@@ -22,3 +22,5 @@ elif operação == "*":
 elif operação == "/":
         resultado = numero1 / numero2
         print ("o resultado é ", f"{resultado:2.2f}") 
+
+finally
