@@ -13,36 +13,3 @@ A trilha de estudos está organizada assim:
 3. **Listas** — manipulação e organização de dados com listas.
 4. **Funções** — reorganizando a lógica dos exercícios em funções reutilizáveis.
 5. **Desafios maiores** — projetos mais completos, juntando tudo o que foi aprendido.
-
-## Estrutura
-
-Cada pasta representa um desafio e contém um arquivo `main.py` onde o código será desenvolvido.
-
-```text
-projetos-em-py/
-│
-├── 01-condicionais/
-│   ├── aprovado-recuperacao-reprovado/
-│   ├── calculadora/
-│   ├── par-ou-impar/
-│   └── maior-de-tres-numeros/
-│
-├── 02-repeticoes/
-│   ├── tabuada/
-│   ├── jogo-adivinhacao/
-│   └── caixa-eletronico/
-│
-├── 03-listas/
-│   ├── lista-de-compras/
-│   ├── notas-de-alunos/
-│   └── enquete/
-│
-├── 04-funcoes/
-│   ├── calculadora-com-funcoes/
-│   └── sistema-de-notas/
-│
-└── 05-desafios-maiores/
-    ├── cadastro-de-alunos/
-    ├── banco-simples/
-    └── batalha-naval/
-```
